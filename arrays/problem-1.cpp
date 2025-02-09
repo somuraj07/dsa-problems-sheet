@@ -1,3 +1,4 @@
+//Sum of array elements
 class Solution {
     public:
         int sum(int arr[], int n) {
